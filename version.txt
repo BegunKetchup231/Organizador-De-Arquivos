@@ -1,0 +1,5 @@
+Versão 1.0.0 (Data de Lançamento: 02/09/2023)
+- Adicionada funcionalidade de ajuda
+- Corrigido o bug dos botões com aparencia esquisita
+
+
