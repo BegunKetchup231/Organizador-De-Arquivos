@@ -18,3 +18,24 @@ C:\Users\welld\source\repos\Organizador_de_Arquivos\Organizador_de_Arquivos\obj\
 C:\Users\welld\source\repos\Organizador_de_Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.pdb
 C:\Users\welld\source\repos\Organizador_de_Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.genruntimeconfig.cache
 C:\Users\welld\source\repos\Organizador_de_Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\ref\Organizador_de_Arquivos.dll
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\bin\Release\net6.0-windows\Organizador_de_Arquivos.exe
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\bin\Release\net6.0-windows\Organizador_de_Arquivos.deps.json
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\bin\Release\net6.0-windows\Organizador_de_Arquivos.runtimeconfig.json
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\bin\Release\net6.0-windows\Organizador_de_Arquivos.dll
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\bin\Release\net6.0-windows\Organizador_de_Arquivos.pdb
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\bin\Release\net6.0-windows\pt-BR\Organizador_de_Arquivos.resources.dll
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.Form1.resources
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.Properties.Resources.resources
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.Form1.pt-BR.resources
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.csproj.GenerateResource.cache
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.AssemblyInfoInputs.cache
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.AssemblyInfo.cs
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.sourcelink.json
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\pt-BR\Organizador_de_Arquivos.resources.dll
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.dll
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\refint\Organizador_de_Arquivos.dll
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.pdb
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\Organizador_de_Arquivos.genruntimeconfig.cache
+C:\Users\Wellden Moura\Documents\GitHub\Organizador-De-Arquivos\Organizador_de_Arquivos\obj\Release\net6.0-windows\ref\Organizador_de_Arquivos.dll

@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\welld\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\welld\\.nuget\\packages",
+      "C:\\Users\\Wellden Moura\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wellden Moura\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Organizador_de_Arquivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78023c370daad0524b8484d5f9940c3f598c7573")]
 [assembly: System.Reflection.AssemblyProductAttribute("Organizador_de_Arquivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Organizador_de_Arquivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

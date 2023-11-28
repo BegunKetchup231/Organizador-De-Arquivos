@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rOzKgXtO8M1SqGnJVuA3W+IjBV+qj0ExmCrpMTdmU70YUEkM6TR2+xqsajcepdTkNkPWoj0VQspsun9FeD72hA==",
+  "dgSpecHash": "whPW25qvb3ZHqfoBd2DB547bxEyp4lkFgaNXVgJPoURo8DvomZ9KqBZiiT33FeQbWXktbeQH6cKnpPXiMLyDrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\welld\\source\\repos\\Organizador_de_Arquivos\\Organizador_de_Arquivos\\Organizador_de_Arquivos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Wellden Moura\\Documents\\GitHub\\Organizador-De-Arquivos\\Organizador_de_Arquivos\\Organizador_de_Arquivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Wellden Moura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
